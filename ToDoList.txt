@@ -1,0 +1,2 @@
+wash a dish,high
+go on a run,low
